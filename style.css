@@ -1,3 +1,7 @@
 span:has(.input-accordion-checkbox:checked){
-  color: var(--sd-webui-input-accordion-activate-color) !important;
+  color: var(--sd-webui-input-accordion-activate-color);
+}
+
+.input-accordion:has(.input-accordion-checkbox:checked){
+  box-shadow: 0px 0px 3px 3px var(--sd-webui-input-accordion-activate-shadow-color);
 }

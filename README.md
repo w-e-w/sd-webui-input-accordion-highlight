@@ -1,5 +1,10 @@
 # Stable Diffusion web UI InputAccordion Highlight
-Change the text color when an InputAccordion is enabled in [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 
 
-Color can be changed under `Setting > User interface > Custom InputAccordion enable highlight color`
-![screenshot](screenshot.png)
+Highlight InputAccordion when enabled
+
+UI customization for [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 
+
+Colors can be configured at `Setting > User interface > InputAccordion highlight ...`
+
+![ui](screenshots/dark.png#gh-dark-mode-only)![ui](screenshots/light.png#gh-light-mode-only)
+![settings](screenshots/settings-dark.png#gh-dark-mode-only)![settings](screenshots/settings-light.png#gh-light-mode-only)
